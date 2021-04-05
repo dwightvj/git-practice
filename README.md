@@ -1,6 +1,6 @@
 # Practice with git and GitHub
 
-I'm Adhvaith and I edited this file online!
+I'm Adhvaith Vijay and I edited this file online!
 
 I'm Adhvaith Vijay and I edited this file!
 
